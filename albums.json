@@ -1,5 +1,14 @@
 [
   {
+  "name": "THE TORTURED POETS DEPARTMENT",
+  "owner": "MoinYesin",
+  "repo": "ts_ttpd_player",
+  "accentColor": "#B8A999",
+  "bgColorStart": "#1B1918",
+  "bgColorEnd": "#B8A999",
+  "description": "Released in 2024, THE TORTURED POETS DEPARTMENT is Taylor Swift's eleventh studio album. Blending synth-pop, chamber pop, folk-pop, and electronic influences, the album is a deeply introspective exploration of heartbreak, longing, self-reflection, and personal transformation. Featuring tracks such as 'Fortnight', 'My Boy Only Breaks His Favorite Toys', 'Down Bad', 'So Long, London', and 'I Can Do It With a Broken Heart', the album presents a poetic and emotionally raw narrative that unfolds across its expansive tracklist."
+  },
+  {
     "name": "Midnights",
     "owner": "MoinYesin",
     "repo": "ts_midnights_player",
