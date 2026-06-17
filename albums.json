@@ -52,5 +52,14 @@
   "bgColorStart": "#1A1816",
   "bgColorEnd": "#8B6F47",
   "description": "Released in 2020, evermore is Taylor Swift's ninth studio album and the sister record to folklore. Blending indie folk, alternative rock, chamber pop, and country influences, the album expands on rich storytelling and emotional depth. Featuring fan-favorite tracks like 'willow', 'champagne problems', 'gold rush', 'ivy', and 'evermore', the record explores themes of heartbreak, nostalgia, resilience, and finding hope amid uncertainty."
-}
+  },
+  {
+  "name": "folklore",
+  "owner": "MoinYesin",
+  "repo": "ts_folklore_player",
+  "accentColor": "#A7A7A7",
+  "bgColorStart": "#111111",
+  "bgColorEnd": "#A7A7A7",
+  "description": "Released in 2020, folklore is Taylor Swift's eighth studio album. Marking a departure from her previous pop sound, the album embraces indie folk, alternative rock, and chamber pop influences while focusing on vivid storytelling and fictional narratives. Featuring acclaimed tracks such as 'cardigan', 'august', 'exile', 'the 1', and 'my tears ricochet', folklore explores themes of love, loss, nostalgia, regret, and human connection through richly detailed characters and atmospheric production."
+ }
 ]
