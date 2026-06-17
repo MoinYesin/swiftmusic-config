@@ -34,5 +34,14 @@
     "bgColorStart": "#F3A5C8",
     "bgColorEnd": "#F5E38C",
     "description": "Released in 2019, Lover is a vibrant, colorful celebration of love in all its forms—romantic, familial, and self-love. Sonically, it spans dream pop, upbeat bubblegum pop, and acoustic ballads. Featuring tracks like 'Cruel Summer' and the title track 'Lover', it stands as a warm, bright, and emotionally diverse record following the darker era of Reputation."
-  }
+  },
+  {
+  "name": "evermore",
+  "owner": "MoinYesin",
+  "repo": "ts_evermore_player",
+  "accentColor": "#8B6F47",
+  "bgColorStart": "#1A1816",
+  "bgColorEnd": "#8B6F47",
+  "description": "Released in 2020, evermore is Taylor Swift's ninth studio album and the sister record to folklore. Blending indie folk, alternative rock, chamber pop, and country influences, the album expands on rich storytelling and emotional depth. Featuring fan-favorite tracks like 'willow', 'champagne problems', 'gold rush', 'ivy', and 'evermore', the record explores themes of heartbreak, nostalgia, resilience, and finding hope amid uncertainty."
+}
 ]
