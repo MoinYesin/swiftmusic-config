@@ -1,5 +1,14 @@
 [
   {
+  "name": "The Life of a Showgirl",
+  "owner": "MoinYesin",
+  "repo": "ts_showgirl_player",
+  "accentColor": "#7EC9B5",
+  "bgColorStart": "#141816",
+  "bgColorEnd": "#7EC9B5",
+  "description": "Released in 2025, The Life of a Showgirl is Taylor Swift's twelfth studio album. Inspired by life on and off the stage, the album blends vibrant pop production with reflective songwriting, exploring the contrast between public performance and private emotions. Featuring tracks such as 'The Fate of Ophelia', 'Opalite', and 'Elizabeth Taylor', the record examines fame, romance, confidence, reinvention, and the hidden stories behind the spotlight through cinematic storytelling and polished production."
+  },
+  {
   "name": "Speak Now",
   "owner": "MoinYesin",
   "repo": "ts_speaknow_player",
